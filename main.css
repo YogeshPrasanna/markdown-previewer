@@ -29,7 +29,7 @@ body {
     }
     
     textarea::-webkit-scrollbar {
-    width: 4px;
+    width: 5px;
     }
      
     textarea::-webkit-scrollbar-track {
